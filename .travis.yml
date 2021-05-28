@@ -10,6 +10,7 @@ git:
 script:
   - yarn build
 notifications:
+  slack: estudioplatzi:F8veibqm3pJGXY20X9a2dOrV
   email:
     recipients:
       - castillovictor2461@gmail.com
